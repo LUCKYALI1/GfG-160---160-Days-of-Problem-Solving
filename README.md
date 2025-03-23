@@ -40,8 +40,7 @@ Welcome to my **160-day coding challenge** on [GeeksforGeeks](https://practice.g
 |-------|----------------------------------------------|---------|
 | Day 1 | [Problem 1](https://www.geeksforgeeks.org/batch/gfg-160-problems/track/arrays-gfg-160/problem/second-largest3735)                               | ✅      |
 | Day 2 | [Problem 2](https://www.geeksforgeeks.org/batch/gfg-160-problems/track/arrays-gfg-160/problem/move-all-zeroes-to-end-of-array0751)                               | ✅      |
-| ...   | ...                                          | ...     |
-| Day 160 | [Problem 160](#)                           | ✅      |
+| Day 2 | [Problem 2](https://www.geeksforgeeks.org/batch/gfg-160-problems/track/arrays-gfg-160/problem/reverse-an-array)                               | ✅      |
 
 > _Progress: 160/160 Completed 🎉_
 
@@ -52,9 +51,9 @@ Welcome to my **160-day coding challenge** on [GeeksforGeeks](https://practice.g
 Feel free to explore the solutions, use them for practice, or suggest improvements.  
 **Contributions, discussions, and feedback are welcome!**
 
-> 📧 Contact: [YourEmail@example.com]  
-> 💼 LinkedIn: [YourLinkedInProfile](#)  
-> 💻 GitHub: [YourGitHub](https://github.com/YourUsername)
+> 📧 Contact: [luckyali786ashu@gmail.com]  
+> 💼 LinkedIn: [Lucky Ali](https://linkedin.com/in/luckyalim)  
+> 💻 GitHub: [LUCKYALI1](https://github.com/Luckyali1)
 
 ---
 
