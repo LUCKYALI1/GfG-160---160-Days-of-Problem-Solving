@@ -43,6 +43,8 @@ Welcome to my **160-day coding challenge** on [GeeksforGeeks](https://practice.g
 | Day 3 | [Problem 3](https://www.geeksforgeeks.org/batch/gfg-160-problems/track/arrays-gfg-160/problem/reverse-an-array)                               | ✅ |
 | Day 4 | [Problem 4](https://www.geeksforgeeks.org/batch/gfg-160-problems/track/arrays-gfg-160/problem/rotate-array-by-n-elements-1587115621)          | ✅ |
 | Day 5 | [Problem 5](https://www.geeksforgeeks.org/batch/gfg-160-problems/track/arrays-gfg-160/problem/next-permutation5226)                           | ✅ |
+| Day 6 | [Problem 6](https://www.geeksforgeeks.org/batch/gfg-160-problems/track/arrays-gfg-160/problem/majority-vote)                                  | ✅ |
+
 
 > _Progress: 05/160 Completed 🎉_
 
