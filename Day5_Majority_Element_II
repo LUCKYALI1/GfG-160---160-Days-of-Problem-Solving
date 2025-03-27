@@ -1,0 +1,22 @@
+class Solution {
+  public:
+    // Function to find the majority elements in the array
+    vector<int> findMajority(vector<int>& arr) {
+        vector<int> ans;
+       int n = arr.size();
+       int onethird = n / 3;
+       
+       unordered_map<int,int> freq;
+       for(auto ele : arr){
+           freq[ele]++;
+       }
+       
+       for(auto& ele : freq){
+           if(ele.second > onethird){
+               ans.push_back(ele.first);
+           }
+       }
+       sort(ans.begin(),ans.end());
+       return ans;
+    }
+};
