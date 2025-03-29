@@ -44,9 +44,10 @@ Welcome to my **160-day coding challenge** on [GeeksforGeeks](https://practice.g
 | Day 4 | [Problem 4](https://www.geeksforgeeks.org/batch/gfg-160-problems/track/arrays-gfg-160/problem/rotate-array-by-n-elements-1587115621)          | ✅ |
 | Day 5 | [Problem 5](https://www.geeksforgeeks.org/batch/gfg-160-problems/track/arrays-gfg-160/problem/next-permutation5226)                           | ✅ |
 | Day 6 | [Problem 6](https://www.geeksforgeeks.org/batch/gfg-160-problems/track/arrays-gfg-160/problem/majority-vote)                                  | ✅ |
+| Day 7 | [Problem 7](https://www.geeksforgeeks.org/batch/gfg-160-problems/track/arrays-gfg-160/problem/stock-buy-and-sell2615)                         | ✅ |
 
 
-> _Progress: 05/160 Completed 🎉_
+> _Progress: 07/160 Completed 🎉_
 
 ---
 
