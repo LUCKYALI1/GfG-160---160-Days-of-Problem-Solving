@@ -45,9 +45,11 @@ Welcome to my **160-day coding challenge** on [GeeksforGeeks](https://practice.g
 | Day 5 | [Problem 5](https://www.geeksforgeeks.org/batch/gfg-160-problems/track/arrays-gfg-160/problem/next-permutation5226)                           | ✅ |
 | Day 6 | [Problem 6](https://www.geeksforgeeks.org/batch/gfg-160-problems/track/arrays-gfg-160/problem/majority-vote)                                  | ✅ |
 | Day 7 | [Problem 7](https://www.geeksforgeeks.org/batch/gfg-160-problems/track/arrays-gfg-160/problem/stock-buy-and-sell2615)                         | ✅ |
+| Day 8 | [Problem 8](https://www.geeksforgeeks.org/batch/gfg-160-problems/track/arrays-gfg-160/problem/buy-stock-2)                                    | ✅ |
+| Day 9 | [Problem 9](https://www.geeksforgeeks.org/batch/gfg-160-problems/track/arrays-gfg-160/problem/minimize-the-heights3351)                       | ✅ |
 
 
-> _Progress: 07/160 Completed 🎉_
+> _Progress: 09/160 Completed 🎉_
 
 ---
 
