@@ -48,10 +48,11 @@ Welcome to my **160-day coding challenge** on [GeeksforGeeks](https://practice.g
 | Day 8 | [Problem 8](https://www.geeksforgeeks.org/batch/gfg-160-problems/track/arrays-gfg-160/problem/buy-stock-2)                                    | ✅ |
 | Day 9 | [Problem 9](https://www.geeksforgeeks.org/batch/gfg-160-problems/track/arrays-gfg-160/problem/minimize-the-heights3351)                       | ✅ |
 | Day 10 | [Problem 10](https://www.geeksforgeeks.org/batch/gfg-160-problems/track/arrays-gfg-160/problem/kadanes-algorithm-1587115620)                 | ✅ |
+| Day 11 | [Problem 11](https://www.geeksforgeeks.org/batch/gfg-160-problems/track/arrays-gfg-160/problem/maximum-product-subarray3604)                 | ✅ |
 
 
 
-> _Progress: 10/160 Completed 🎉_
+> _Progress: 11/160 Completed 🎉_
 
 ---
 
