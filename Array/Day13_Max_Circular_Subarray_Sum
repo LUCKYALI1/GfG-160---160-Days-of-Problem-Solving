@@ -1,0 +1,24 @@
+class Solution {
+  public:
+    int circularSubarraySum(vector<int> &arr) {
+      int total = 0;
+      int maxSum = INT_MIN,currMax = 0;
+      int minSum = INT_MAX,currMin = 0;
+      bool allneg = true;
+      
+      for(int num : arr){
+          total += num;
+          
+          currMax = max(num , currMax + num);
+          maxSum = max(maxSum , currMax);
+          
+          currMin = min(num , currMin + num);
+          minSum = min(minSum , currMin);
+          
+          if(num >= 0) allneg = false;
+      }
+      if(allneg) return maxSum;
+      
+      return max(maxSum , total - minSum);
+    }
+};
