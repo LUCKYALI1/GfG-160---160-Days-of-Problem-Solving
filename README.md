@@ -49,7 +49,8 @@ Welcome to my **160-day coding challenge** on [GeeksforGeeks](https://practice.g
 | Day 9 | [Problem 9](https://www.geeksforgeeks.org/batch/gfg-160-problems/track/arrays-gfg-160/problem/minimize-the-heights3351)                       | ✅ |
 | Day 10 | [Problem 10](https://www.geeksforgeeks.org/batch/gfg-160-problems/track/arrays-gfg-160/problem/kadanes-algorithm-1587115620)                 | ✅ |
 | Day 11 | [Problem 11](https://www.geeksforgeeks.org/batch/gfg-160-problems/track/arrays-gfg-160/problem/maximum-product-subarray3604)                 | ✅ |
-| Day 12 | [Problem 11](https://www.geeksforgeeks.org/batch/gfg-160-problems/track/arrays-gfg-160/problem/max-circular-subarray-sum-1587115620)         | ✅ |
+| Day 12 | [Problem 12](https://www.geeksforgeeks.org/batch/gfg-160-problems/track/arrays-gfg-160/problem/max-circular-subarray-sum-1587115620)         | ✅ |
+| Day 13 | [Problem 13](https://www.geeksforgeeks.org/batch/gfg-160-problems/track/arrays-gfg-160/problem/smallest-positive-missing-number-1587115621)  | ✅ |
 
 
 
