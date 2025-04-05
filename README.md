@@ -55,7 +55,7 @@ Welcome to my **160-day coding challenge** on [GeeksforGeeks](https://practice.g
 
 
 
-> _Progress: 12/160 Completed 🎉_
+> _Progress: 13/160 Completed 🎉_
 
 ---
 
