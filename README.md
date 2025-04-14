@@ -51,11 +51,13 @@ Welcome to my **160-day coding challenge** on [GeeksforGeeks](https://practice.g
 | Day 11 | [Problem 11](https://www.geeksforgeeks.org/batch/gfg-160-problems/track/arrays-gfg-160/problem/maximum-product-subarray3604)                 | ✅ |
 | Day 12 | [Problem 12](https://www.geeksforgeeks.org/batch/gfg-160-problems/track/arrays-gfg-160/problem/max-circular-subarray-sum-1587115620)         | ✅ |
 | Day 13 | [Problem 13](https://www.geeksforgeeks.org/batch/gfg-160-problems/track/arrays-gfg-160/problem/smallest-positive-missing-number-1587115621)  | ✅ |
+| Day 14 | [Problem 13](https://www.geeksforgeeks.org/batch/gfg-160-problems/track/arrays-gfg-160/problem/smallest-positive-missing-number-1587115621)  | ✅ |
+| Day 15 | [Problem 15](https://www.geeksforgeeks.org/batch/gfg-160-problems/track/string-gfg-160/problem/add-binary-strings3805)                       | ✅ |
 
 
 
 
-> _Progress: 13/160 Completed 🎉_
+> _Progress: 15/160 Completed 🎉_
 
 ---
 
