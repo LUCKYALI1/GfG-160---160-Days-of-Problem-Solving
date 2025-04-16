@@ -1,0 +1,18 @@
+class Solution {
+  public:
+    // Function is to check whether two strings are anagram of each other or not.
+    bool areAnagrams(string& s1, string& s2) {
+        if(s1.size() != s2.size()) return false;
+       unordered_map<char , int> count;
+       for(int i = 0; i < s1.size() ; i++){
+           count[s1[i]]++;
+       }
+       for(char c : s2){
+           if(count.find(c) == count.end() || count[c] == 0){
+               return false;
+           }
+           count[c]--;
+       }
+       return true;
+    }
+};
