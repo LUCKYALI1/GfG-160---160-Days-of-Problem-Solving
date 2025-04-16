@@ -53,12 +53,13 @@ Welcome to my **160-day coding challenge** on [GeeksforGeeks](https://practice.g
 | Day 13 | [Problem 13](https://www.geeksforgeeks.org/batch/gfg-160-problems/track/arrays-gfg-160/problem/smallest-positive-missing-number-1587115621)  | ✅ |
 | Day 14 | [Problem 13](https://www.geeksforgeeks.org/batch/gfg-160-problems/track/arrays-gfg-160/problem/smallest-positive-missing-number-1587115621)  | ✅ |
 | Day 15 | [Problem 15](https://www.geeksforgeeks.org/batch/gfg-160-problems/track/string-gfg-160/problem/add-binary-strings3805)                       | ✅ |
-| Day 16| [Problem 15](https://www.geeksforgeeks.org/batch/gfg-160-problems/track/string-gfg-160/problem/anagram-1587115620)                           | ✅ |
+| Day 16| [Problem 16](https://www.geeksforgeeks.org/batch/gfg-160-problems/track/string-gfg-160/problem/anagram-1587115620)                            | ✅ |
+| Day 17| [Problem 17](https://www.geeksforgeeks.org/batch/gfg-160-problems/track/string-gfg-160/problem/non-repeating-character-1587115620)            | ✅ |
 
 
 
 
-> _Progress: 16/160 Completed 🎉_
+> _Progress: 17/160 Completed 🎉_
 
 ---
 
