@@ -1,0 +1,15 @@
+void sort012(vector<int>& arr) {
+    map<int, int> count;
+    for (auto ele : arr) {
+        count[ele]++;
+    }
+    
+    arr.clear(); // Clear original array first
+
+    for (auto& pair : count) {
+        while (pair.second > 0) {
+            arr.push_back(pair.first);
+            pair.second--;
+        }
+    }
+}
