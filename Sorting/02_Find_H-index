@@ -1,0 +1,11 @@
+class Solution {
+  public:
+    // Function to find hIndex
+    int hIndex(vector<int>& citations) {
+        int h = 0;
+        sort(citations.rbegin() , citations.rend());
+         while(h < citations.size() && citations[h] >= h+1) h++;
+        return h;
+    }
+    
+};
